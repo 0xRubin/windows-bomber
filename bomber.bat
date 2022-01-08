@@ -5,7 +5,6 @@ TIMEOUT 1
 start bomber.bat
 goto top
 >nul
-goto :top
 
 :top
 color 04
